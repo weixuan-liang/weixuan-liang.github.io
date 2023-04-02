@@ -9,11 +9,11 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Xinwang Liu
-subtitle: Professor
+title: Weixuan Liang
+subtitle: PhD Student in NUDT
 
 # left_side:
-background_image: "./assets/XinwangLiu.jpg"
+background_image: "./assets/lwx.jpg"
 #   background_color: "#F00"
 #   close_button_color: "#F00"
 #   text_color: "#F00"
@@ -48,12 +48,9 @@ menu:
 # Socialmedia Icons
 social_icons:
   - name: mail
-    link: mailto:xinwangliu@nudt.edu.cn
+    link: mailto:weixuanliang@nudt.edu.cn
     icon: icon brands fa fa-envelope
 
-  - name: google mail
-    link: mailto:1022xinwang.liu@gmail.com
-    icon: fab fa-google
 
   - name: github
     link: https://github.com/xinwangliu
